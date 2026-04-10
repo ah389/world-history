@@ -30,8 +30,4 @@
   "engines": {
     "node": ">=18"
   }
-    "overrides": {
-    "@mercuryworkshop/scramjet": "latest"
-  }
-
 }
